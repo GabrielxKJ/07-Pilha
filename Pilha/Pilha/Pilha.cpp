@@ -136,4 +136,4 @@ void pop()
 		free(aux);
 	}
 }
-
+// desenvolvido com a galera (jacques, zatorre e dan)
